@@ -8,9 +8,6 @@
   </h1>
 </div>
 
-  </h1>
-  <img src="https://example.com/gaming_coding.gif" alt="Gaming and Coding GIF" width="500" height="350">
-</div>
 
 <p align="center">
   <a href="https://facebook.com/mazharulislam.sourav.37">
