@@ -1,14 +1,35 @@
 
-<!--![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)-->
-<p align="center"> <h1 align="center"> Myself Mazharul Islam Sourav <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<div align="center">
+  <h1 align="center"> 𝓜𝓪𝔃𝓱𝓪𝓻𝓾𝓵 𝓘𝓼𝓵𝓪𝓶 𝓢𝓸𝓾𝓻𝓪𝓿
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
-         height="45"
-         width="45" /></h1> </p>
+         height="40"
+         width="40" />
+  </h1>
+</div>
+
+  </h1>
+  <img src="https://example.com/gaming_coding.gif" alt="Gaming and Coding GIF" width="500" height="350">
+</div>
+
+
+
+
 <p align="center">
-<a href="https://facebook.com/mazharulislam.sourav.37/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
-<a href="https://www.instagram.com/mazhar_sourav/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-<a href="mailto:redtom2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<p align="center">
+  <a href="https://facebook.com/mazharulislam.sourav.37">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/mazhar_sourav/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="mailto:redtom2018@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Izaafi&label=Profile%20Visits&color=blue&style=plastic" alt="Izaafi" />
@@ -55,17 +76,19 @@ No Activity Tracked This Week
 ***
 **♨️ &nbsp;DSA Analytics**
 
-<p align="center"> <img src="https://leetcard.jacoblin.cool/imkashyap?theme=dark&font=Noto%20Sans&ext=contest" 
-         alt="Leetcode stats" height="350"/></p>
-         
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Gintoki Sakata Funny GIF" height="300"/>
+</p>
+
 ***
 
 **🛠 &nbsp;Tech Stack**
 
 - Languages: &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=ED8B00)
+![Java](https://img.shields.io/badge/-☕%20Java-333333?style=flat&logo=java&logoColor=ED8B00)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007ACC)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4)
+
 
 
 - Frameworks: &nbsp;
@@ -85,16 +108,14 @@ No Activity Tracked This Week
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=f70486)
 
 ***
+<b>📖 About</b>
 
--  🔭 I’m currently building backend in Java.
 
--  🌱 I’m currently learning more in Spring as a Framework. I have engaged myself in projects in the domain of MERN Stack. You can find my work [here](https://github.com/imKashyap?tab=repositories).
+-  💻 I code to turn ideas into reality.
 
--  💬 Ask me about Flutter, Firebase, Java, Dart, Javascript, OOPS, DBMS ,Data Structures & Algorithms.
+-  🚀 Currently exploring [your favorite tech stack].
 
--  😄 Pronouns: He/His
-
--  ⚡ Fun fact: While you close your eyes, this fact is decrypted. 😂
+-  🌱 Learning something new every day.
 
 <!-- -  📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/-Rahul_Kashyap-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kashyap-230577195/)
@@ -108,6 +129,6 @@ No Activity Tracked This Week
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+Let's connect and collaborate on exciting projects! 🌟
 
 </div>
