@@ -8,6 +8,17 @@
   </h1>
 </div>
 
+
+<div align="center">
+  <h1 align="center"> <b style="color: #FF66B2;">𝕄𝕒𝕫𝕙𝕒𝕣𝕦𝕝 𝕀𝕤𝕝𝕒𝕞 𝕊𝕠𝕦𝕣𝕒𝕧</b>
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="40"
+         width="40" />
+  </h1>
+</div>
+
+
   </h1>
   <img src="https://example.com/gaming_coding.gif" alt="Gaming and Coding GIF" width="500" height="350">
 </div>
