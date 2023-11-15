@@ -107,15 +107,13 @@ No Activity Tracked This Week
 
 -  🌱 Learning something new every day.
 
-<!-- -  📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/-Rahul_Kashyap-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kashyap-230577195/)
-[![Twitter](https://img.shields.io/badge/-imkashyap_-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/imkashyap_)
-[![Instagram](https://img.shields.io/badge/-imkashyap__-833ab4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/imkashyap__/)
-[![Gmail](https://img.shields.io/badge/-Rahul_Kashyap-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:rahulkashyap4041@gmail.com) -->
-
 ***
 
-<!-- ![](https://activity-graph.herokuapp.com/graph?username=imkashyap&theme=react-dark&hide_border=true&area=true) -->
+<p align="center">
+    🐼 🐼
+</p>
+
+
 
 <div align="center">
 
