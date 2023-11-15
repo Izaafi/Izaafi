@@ -12,27 +12,26 @@
   <img src="https://example.com/gaming_coding.gif" alt="Gaming and Coding GIF" width="500" height="350">
 </div>
 
-
-
-
-<p align="center">
 <p align="center">
   <a href="https://facebook.com/mazharulislam.sourav.37">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-
+  
   <a href="https://www.instagram.com/mazhar_sourav/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-
+  
   <a href="mailto:redtom2018@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  
+  <a href="https://linkedin.com/in/mazharulislamsourav">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Izaafi&label=Profile%20Visits&color=blue&style=plastic" alt="Izaafi" />
+  <img src="https://komarev.com/ghpvc/?username=Izaafi&label=Profile%20Visits&color=blue&style=plastic" alt="Izaafi">
 </p>
 
 
@@ -89,13 +88,6 @@ No Activity Tracked This Week
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007ACC)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4)
 
-
-
-- Frameworks: &nbsp;
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
-  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=B7C220)
-  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
-
 - Databases:  &nbsp;
   ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
   ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=flat&logo=mongodb)
@@ -103,7 +95,6 @@ No Activity Tracked This Week
 
 - IDEs: &nbsp;
   ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=f70486)
 
@@ -113,7 +104,7 @@ No Activity Tracked This Week
 
 -  💻 I code to turn ideas into reality.
 
--  🚀 Currently exploring [your favorite tech stack].
+-  🚀 Currently exploring Python.
 
 -  🌱 Learning something new every day.
 
