@@ -8,17 +8,6 @@
   </h1>
 </div>
 
-
-<div align="center">
-  <h1 align="center"> <b style="color: #FF66B2;">𝕄𝕒𝕫𝕙𝕒𝕣𝕦𝕝 𝕀𝕤𝕝𝕒𝕞 𝕊𝕠𝕦𝕣𝕒𝕧</b>
-    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="40"
-         width="40" />
-  </h1>
-</div>
-
-
   </h1>
   <img src="https://example.com/gaming_coding.gif" alt="Gaming and Coding GIF" width="500" height="350">
 </div>
@@ -46,9 +35,11 @@
 </p>
 
 
-* I am a current student in Computer Science.
-* I am a wanna be Game developer.
-* I also have repositories on Problem Solving with problems solved over different mostly in java & C.
+* 🎓 I am currently pursuing a degree in Computer Science.
+* 🎮 Aspiring Game Developer with a passion for creating immersive and entertaining experiences.
+* 🚀 My repositories include projects and problem-solving solutions, predominantly in Java and C.
+* 🌱 Continuously learning and exploring new technologies to enhance my skills.
+* 📚 Interested in software development, algorithms, and the intersection of technology and creativity.
 
 ***
 **⚙️ &nbsp;GitHub Analytics**
