@@ -72,7 +72,7 @@ No Activity Tracked This Week
  
 <!--END_SECTION:waka-->
 ***
-**♨️ &nbsp;DSA Analytics**
+**♨️ &nbsp;Data Science**
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Gintoki Sakata Funny GIF" height="300"/>
