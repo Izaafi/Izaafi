@@ -54,7 +54,7 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
+⌚︎ Time Zone: Aisa/Bangladesh
 
 💬 Programming Languages: 
 No Activity Tracked This Week
