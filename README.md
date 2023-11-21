@@ -51,7 +51,7 @@
 <!-- *** -->
 <!--START_SECTION:waka-->
 <!--
-📊 **This Week I Spent My Time On** 
+📊 **Work Time** 
 
 ```text
 ⌚︎ Time Zone: Aisa/Bangladesh
